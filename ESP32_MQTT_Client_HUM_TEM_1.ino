@@ -28,7 +28,7 @@ int inputPin = 34;
 //**************************************
 //*********** MQTT CONFIG **************
 //**************************************
-const char *mqtt_server = "34.123.165.38"; //Ivan: 34.133.239.10 //34.123.165.38
+const char *mqtt_server = "34.123.165.38"; //34.123.165.38
 
 const int mqtt_port = 1883;
 const char *mqtt_user = "ESP32_1";
